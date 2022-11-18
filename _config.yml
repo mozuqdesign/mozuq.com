@@ -30,7 +30,7 @@ twitter_username: mozuq.design
 github_username:  mozuq.design
 
 # Build settings
-theme: jekyll-theme-architect
+theme: architect
 plugins:
   - jekyll-feed
 
