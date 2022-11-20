@@ -1,7 +1,7 @@
 @charset "utf-8";
-/* CSS Document */
 @font-face {
-	src: url(/font/jost.ttf)
+	font-family: "jost";
+	src: url("font/jost.ttf") format("ttf");
 }
 
 body {
