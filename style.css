@@ -1,12 +1,8 @@
 @charset "utf-8";
-@font-face {
-	font-family: "jost";
-	src: url("font/jost.ttf") format("ttf");
-}
 
 body {
 	padding: 10%;
-	font-family: "jost";
+	font-family: "Jost";
 	color: #1c1c1c;
 	background-color: #FCFAF2;
 }
