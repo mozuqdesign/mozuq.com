@@ -23,6 +23,10 @@ img{
 	margin-bottom: 2.5%;
 }
 
+.mobile-img {
+	display: none
+}
+
 h2 {
 	font-size: 250%;
 	font-weight: 700;
