@@ -17,14 +17,22 @@ h1 {
 }
 
 img{
-    width: 100%;
-    display: block;
-    margin-top: 2.5%;
-	margin-bottom: 2.5%;
+    	width: 100%;
+    	display: block;
+    	margin-top: 2.5%;
+		margin-bottom: 2.5%;
 }
 
-.mobile-img {
-	display: none
+@media (orientation: landscape){
+	.mobile-img{
+		display: none;
+	}
+}
+
+@media (orientation: portrait){
+	.pc-img{
+		display: none;
+	}
 }
 
 h2 {
