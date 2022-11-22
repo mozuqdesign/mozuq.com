@@ -75,9 +75,10 @@ a:hover{
 
 .container {
 	display: flex;
+	justify-content: flex-end;
 }
 
 .item {
-	width: 33%;
+	width: 50%;
 	text-align: center;
 }
