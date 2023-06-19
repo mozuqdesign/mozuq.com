@@ -78,3 +78,9 @@ a:hover{
 	display: flex;
 	justify-content: space-between;
 }
+
+.links{
+    justify-content: center;
+    text-align: justify;
+    }
+}
