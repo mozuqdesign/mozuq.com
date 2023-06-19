@@ -80,7 +80,8 @@ a:hover{
 }
 
 .links{
-    justify-content: center;
+    width: 100%;
+    display: flex;
     text-align: justify;
     }
 }
